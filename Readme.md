@@ -1,8 +1,5 @@
 # Hello GLUT
-add by zyq
-
-test 2
-
+add by zyq 2
 ## Table of Contents
 
 - [Introduction](#introduction)
